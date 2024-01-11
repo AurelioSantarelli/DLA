@@ -1,0 +1,14 @@
+Risultati single-threaded
+
+Indice 1000: Media = 15.000000, Deviazione standard = 5.239002
+Indice 5000: Media = 35.000000, Deviazione standard = 6.602891
+Indice 10000: Media = 42.000000, Deviazione standard = 11.341716
+Indice 15000: Media = 46.000000, Deviazione standard = 8.983961
+
+Risultati multi-threaded
+
+Indice 1000: Media = 73.000000, Deviazione standard = 25.637218
+Indice 5000: Media = 315.000000, Deviazione standard = 31.870699
+Indice 10000: Media = 393.000000, Deviazione standard = 41.125393
+Indice 15000: Media = 414.000000, Deviazione standard = 42.489835
+

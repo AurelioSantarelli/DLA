@@ -1,0 +1,676 @@
+Confronto tempistiche DLA single-threaded e DLA-multithreaded con diversi numeri di particelle
+
+#############################################################################
+
+1 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 15.785587
+
+(MULTI-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 113.176353
+
+SPEEDUP : 0.139478				EFFICENZA : 0.000139
+
+#############################################################################
+
+2 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 35.441872
+
+(MULTI-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 333.157501
+
+SPEEDUP : 0.106382				EFFICENZA : 0.000021
+
+#############################################################################
+
+3 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 42.856022
+
+(MULTI-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 393.884064
+
+SPEEDUP : 0.108804				EFFICENZA : 0.000011
+
+#############################################################################
+
+4 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 47.774918
+
+(MULTI-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 449.064880
+
+SPEEDUP : 0.106388				EFFICENZA : 0.000007
+
+#############################################################################
+
+5 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 16.050154
+
+(MULTI-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 68.778732
+
+SPEEDUP : 0.233359				EFFICENZA : 0.000233
+
+#############################################################################
+
+6 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 15.700751
+
+(MULTI-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 288.085602
+
+SPEEDUP : 0.054500				EFFICENZA : 0.000011
+
+#############################################################################
+
+7 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 36.066422
+
+(MULTI-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 417.190277
+
+SPEEDUP : 0.086451				EFFICENZA : 0.000009
+
+#############################################################################
+
+8 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 43.578182
+
+(MULTI-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 431.629395
+
+SPEEDUP : 0.100962				EFFICENZA : 0.000007
+
+#############################################################################
+
+9 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 15.234811
+
+(MULTI-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 35.463665
+
+SPEEDUP : 0.429589				EFFICENZA : 0.000430
+
+#############################################################################
+
+10 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 34.315647
+
+(MULTI-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 332.905548
+
+SPEEDUP : 0.103079				EFFICENZA : 0.000021
+
+#############################################################################
+
+11 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 44.573498
+
+(MULTI-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 384.296631
+
+SPEEDUP : 0.115987				EFFICENZA : 0.000012
+
+#############################################################################
+
+12 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 46.864815
+
+(MULTI-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 423.380676
+
+SPEEDUP : 0.110692				EFFICENZA : 0.000007
+
+#############################################################################
+
+13 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 15.928606
+
+(MULTI-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 94.440506
+
+SPEEDUP : 0.168663				EFFICENZA : 0.000169
+
+#############################################################################
+
+14 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 34.671070
+
+(MULTI-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 324.931793
+
+SPEEDUP : 0.106703				EFFICENZA : 0.000021
+
+#############################################################################
+
+15 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 43.738407
+
+(MULTI-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 429.625580
+
+SPEEDUP : 0.101806				EFFICENZA : 0.000010
+
+#############################################################################
+
+16 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 46.940670
+
+(MULTI-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 441.590668
+
+SPEEDUP : 0.106299				EFFICENZA : 0.000007
+
+#############################################################################
+
+17 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 15.889573
+
+(MULTI-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 76.289467
+
+SPEEDUP : 0.208280				EFFICENZA : 0.000208
+
+#############################################################################
+
+18 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 36.116886
+
+(MULTI-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 315.570068
+
+SPEEDUP : 0.114450				EFFICENZA : 0.000023
+
+#############################################################################
+
+19 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 43.516193
+
+(MULTI-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 401.581696
+
+SPEEDUP : 0.108362				EFFICENZA : 0.000011
+
+#############################################################################
+
+20 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 46.306709
+
+(MULTI-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 428.243622
+
+SPEEDUP : 0.108132				EFFICENZA : 0.000007
+
+#############################################################################
+
+21 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 15.581865
+
+(MULTI-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 76.147652
+
+SPEEDUP : 0.204627				EFFICENZA : 0.000205
+
+#############################################################################
+
+22 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 35.559067
+
+(MULTI-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 337.404785
+
+SPEEDUP : 0.105390				EFFICENZA : 0.000021
+
+#############################################################################
+
+23 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 43.042980
+
+(MULTI-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 415.641449
+
+SPEEDUP : 0.103558				EFFICENZA : 0.000010
+
+#############################################################################
+
+24 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 46.625645
+
+(MULTI-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 435.397614
+
+SPEEDUP : 0.107088				EFFICENZA : 0.000007
+
+#############################################################################
+
+25 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 15.796592
+
+(MULTI-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 77.575653
+
+SPEEDUP : 0.203628				EFFICENZA : 0.000204
+
+#############################################################################
+
+26 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 35.559677
+
+(MULTI-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 283.016266
+
+SPEEDUP : 0.125645				EFFICENZA : 0.000025
+
+#############################################################################
+
+27 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 42.840118
+
+(MULTI-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 355.228302
+
+SPEEDUP : 0.120599				EFFICENZA : 0.000012
+
+#############################################################################
+
+28 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 46.627586
+
+(MULTI-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 34.740433
+
+SPEEDUP : 1.342171				EFFICENZA : 0.000089
+
+#############################################################################
+
+29 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 15.239493
+
+(MULTI-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 265.689575
+
+SPEEDUP : 0.057358				EFFICENZA : 0.000057
+
+#############################################################################
+
+30 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 35.774746
+
+(MULTI-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 412.752167
+
+SPEEDUP : 0.086674				EFFICENZA : 0.000017
+
+#############################################################################
+
+31 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 43.821571
+
+(MULTI-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 411.961029
+
+SPEEDUP : 0.106373				EFFICENZA : 0.000011
+
+#############################################################################
+
+32 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 46.368305
+
+(MULTI-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 89.917473
+
+SPEEDUP : 0.515676				EFFICENZA : 0.000034
+
+#############################################################################
+
+33 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 16.606129
+
+(MULTI-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 343.009918
+
+SPEEDUP : 0.048413				EFFICENZA : 0.000048
+
+#############################################################################
+
+34 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 35.272915
+
+(MULTI-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 409.178101
+
+SPEEDUP : 0.086204				EFFICENZA : 0.000017
+
+#############################################################################
+
+35 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 42.589066
+
+(MULTI-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 413.191559
+
+SPEEDUP : 0.103073				EFFICENZA : 0.000010
+
+#############################################################################
+
+36 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 46.570293
+
+(MULTI-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 89.713898
+
+SPEEDUP : 0.519098				EFFICENZA : 0.000035
+
+#############################################################################
+
+37 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 16.450123
+
+(MULTI-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 335.958649
+
+SPEEDUP : 0.048965				EFFICENZA : 0.000049
+
+#############################################################################
+
+38 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 36.349335
+
+(MULTI-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 424.769592
+
+SPEEDUP : 0.085574				EFFICENZA : 0.000017
+
+#############################################################################
+
+39 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 43.448814
+
+(MULTI-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 431.667267
+
+SPEEDUP : 0.100653				EFFICENZA : 0.000010
+
+#############################################################################
+
+40 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 46.782272
+
+(MULTI-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 79.794479
+
+SPEEDUP : 0.586285				EFFICENZA : 0.000039
+
+#############################################################################
+
+41 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 15.742994
+
+(MULTI-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 320.507172
+
+SPEEDUP : 0.049119				EFFICENZA : 0.000049
+
+#############################################################################
+
+42 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 35.233410
+
+(MULTI-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 354.255066
+
+SPEEDUP : 0.099458				EFFICENZA : 0.000020
+
+#############################################################################
+
+43 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 42.848755
+
+(MULTI-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 381.996765
+
+SPEEDUP : 0.112170				EFFICENZA : 0.000011
+
+#############################################################################
+
+44 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 46.610451
+
+(MULTI-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 70.282631
+
+SPEEDUP : 0.663186				EFFICENZA : 0.000044
+
+#############################################################################
+
+45 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 16.388870
+
+(MULTI-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 309.441284
+
+SPEEDUP : 0.052963				EFFICENZA : 0.000053
+
+#############################################################################
+
+46 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 36.587025
+
+(MULTI-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 313.697174
+
+SPEEDUP : 0.116632				EFFICENZA : 0.000023
+
+#############################################################################
+
+47 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 43.117260
+
+(MULTI-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 392.056488
+
+SPEEDUP : 0.109977				EFFICENZA : 0.000011
+
+#############################################################################
+
+48 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 46.558311
+
+(MULTI-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 392.056488
+
+SPEEDUP : 0.118754				EFFICENZA : 0.000008
+
+#############################################################################
+
+49 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 15.828870
+
+(MULTI-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 89.083076
+
+SPEEDUP : 0.177687				EFFICENZA : 0.000178
+
+#############################################################################
+
+50 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 34.884323
+
+(MULTI-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 317.622620
+
+SPEEDUP : 0.109829				EFFICENZA : 0.000022
+
+#############################################################################
+
+51 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 48.334766
+
+(MULTI-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 379.692566
+
+SPEEDUP : 0.127300				EFFICENZA : 0.000013
+
+#############################################################################
+
+52 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 15.597975
+
+(MULTI-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 432.992096
+
+SPEEDUP : 0.036024				EFFICENZA : 0.000002
+
+#############################################################################
+
+53 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 36.017181
+
+(MULTI-THREAD)
+ #Particelle : 1000	|	Tempo impiegato : 43.265388
+
+SPEEDUP : 0.832471				EFFICENZA : 0.000832
+
+#############################################################################
+
+54 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 44.838177
+
+(MULTI-THREAD)
+ #Particelle : 5000	|	Tempo impiegato : 314.601135
+
+SPEEDUP : 0.142524				EFFICENZA : 0.000029
+
+#############################################################################
+
+55 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 47.106159
+
+(MULTI-THREAD)
+ #Particelle : 10000	|	Tempo impiegato : 384.778503
+
+SPEEDUP : 0.122424				EFFICENZA : 0.000012
+
+#############################################################################
+
+56 riga del log:
+
+(SINGLE-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 16.319441
+
+(MULTI-THREAD)
+ #Particelle : 15000	|	Tempo impiegato : 386.735138
+
+SPEEDUP : 0.042198				EFFICENZA : 0.000003
+
+#############################################################################
+
