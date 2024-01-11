@@ -9,7 +9,7 @@ Il progetto e' strutturato in due parti:
               una rappresentazione grafica utilizzando la libreria C, SDL. Le due versioni una multithread (DLA_mt_graphic.c)
               e una single-thread. 
               #NOTA#: Entrambe le versioni chiedono come primo e unico argomento da terminale il numero di particelle.
-              #NOTA#: compila con -lSDAl2 le versioni grafiche. Mentre per la versione multi-thread -lpthread. 
+              #NOTA#: compila con -lSDL2 le versioni grafiche. Mentre per la versione multi-thread -lpthread. 
               
 -DLA_data: Sono due istanze dello stesso programma che simulano la crescita cristallina DLA ma salvano in due log separati
            (log_mt.txt per la vesrione multithread e log_st.txt per la versione single-thread) il tempo in cui vengono 
