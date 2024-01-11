@@ -1,5 +1,5 @@
 # DLA
-Diffusion-limited aggregation project (DLA)
+Diffusion-limited aggregation project (DLA) in C.
 
 # Creator: Aurelio Santarelli #
 
